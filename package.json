@@ -1,0 +1,23 @@
+{
+  "name": "realworld-nuxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manba24/realworld-nuxt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manba24/realworld-nuxt/issues"
+  },
+  "homepage": "https://github.com/manba24/realworld-nuxt#readme",
+  "dependencies": {
+    "nuxt": "^2.14.1"
+  }
+}
