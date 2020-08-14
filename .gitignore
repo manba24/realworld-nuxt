@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 node_modules
 /dist
+=======
+/node_modules
+
+>>>>>>> 1d7690b38937e39e5320b1ece0fb682d2aa05f33
 /.nuxt
